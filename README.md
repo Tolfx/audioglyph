@@ -10,3 +10,8 @@ download it from a tracker. But if it is missing from the trackers it could be a
 
 
 Purpose first is to get the "initial" first, so database to store records and sort of barcode reader to get metadata from Discogs and MusicBrainz.
+
+# Dependencies
+- Cobra - https://github.com/spf13/cobra
+- Gorm - https://github.com/go-gorm/gorm
+- PostgreSQL - https://www.postgresql.org/
